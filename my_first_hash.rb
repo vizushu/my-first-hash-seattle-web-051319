@@ -1,5 +1,5 @@
-def my_hash = {"jc" => "kuya", "brother" => "kervin", "sister" => "kristel"}
- 
+def my_hash 
+  siblings = {"jc" => "kuya", "brother" => "kervin", "sister" => "kristel"}
 end
 
 
